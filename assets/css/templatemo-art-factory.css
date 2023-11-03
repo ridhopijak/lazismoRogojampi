@@ -231,7 +231,10 @@ a.main-button-slider {
 }
 
 a.main-button-slider:hover {
-  background-color: #0088e8;
+  background-color: #0088e8 
+  
+  
+  ;
 }
 
 a.main-button {
